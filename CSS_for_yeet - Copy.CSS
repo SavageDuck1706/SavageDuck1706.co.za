@@ -1,0 +1,33 @@
+h1{
+    color: #20a7b9d8;
+    text-align: center;
+}
+h2{
+    color: green;
+}
+
+
+p{
+    color: turquoise;
+    text-align: center;
+}
+
+a{
+    color: orange;
+    text-align: center;
+}
+
+h3{
+    color:magenta;
+}
+
+p ul li ul li{
+    color: yellow;
+}
+.Tester{
+    color: aqua;
+}
+.Yes-Finaly{
+    background-color: blue;
+    color: yellow;
+}
